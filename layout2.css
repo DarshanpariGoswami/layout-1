@@ -1,0 +1,123 @@
+#sbutton
+{ position: relative;
+    width: 20px;
+    padding: 30px;
+}
+.w3-containe
+{
+    position: relative;
+    top: 20px;
+}
+.comapanyname
+{
+position: relative;
+    bottom: 40px;
+    left: 70px;
+}
+.wearebestchoice
+{
+    border-radius: 25px;
+        background: #73AD21;
+        padding: 20px;
+        width: 200px;
+        height: 150px;
+        margin-left: 920px;
+        position: relative;
+        bottom: 70px;
+        border-radius: 0,0,100px,100px;
+}
+#stafimage
+{  position: relative;
+    width:1151px;
+    padding-right: 15px;
+    position: relative;
+    bottom: 50;
+    right: 14px;
+}
+.aboutus
+{
+    background-color: green;
+        width: 300px;
+        border: 15px solid green;
+        padding: 40px;
+        margin: 20px;
+        margin-left: 705px;
+    position: relative;
+    bottom: 1220px;
+    left: 118px;
+    }
+.contactus
+{
+    background-color:salmon;
+        width: 300px;
+        padding: 60px;
+        margin: 20px;
+        margin-left: 705px;
+        position: relative;
+        bottom: 1239px;
+        left: 116px;
+}
+.example
+{   position: relative;
+    background-color: gray;
+        width: 300px;
+        padding: 70px;
+        margin: 20px;
+        bottom: 1256px;
+        left: 802PX;
+        
+}
+#font1
+{
+    font-size: 120px;
+    bottom: 1px;
+        position: relative;
+        color: salmon ;
+}
+#font2 {
+    font-size: 120px;
+    bottom: 170px;
+    position: relative;
+    color: salmon;
+}
+#font3 {
+    font-size: 120px;
+     right: 10px;
+    bottom: 390px;
+    position: relative;
+    color: salmon;
+}
+#serives{
+    position: relative;
+    bottom: 10px;
+    left: 10px
+}
+.serviceno2
+{
+position: relative;
+    bottom: 460px;
+    left: 150px
+}
+.para01
+{
+    margin-bottom: 300px;
+}
+.service1
+{
+position: relative;
+    bottom: 400px;
+    left: 120px
+}
+.service3 {
+     position: relative;
+    bottom: 510px;
+    left: 140px
+   }
+
+   #ourServices
+   {position: relative;
+     left: 290px;
+     font-size: 50px;
+    color:darkgreen;
+    }
+
